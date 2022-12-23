@@ -1,0 +1,16 @@
+* {
+    border: 0 none;
+    outline: 0;
+    padding: 0;
+    margin: 0;  
+    box-sizing: border-box;
+}
+th{
+    vertical-align: top;
+}
+select{
+    width: 150px !important;
+}
+.navbar .active{
+    color: blue !important;
+}
